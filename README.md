@@ -1,5 +1,5 @@
 # vezdekod1
-
+Мой первый проект на flutter для вездекода
 flutter project
 
 ## Getting Started
